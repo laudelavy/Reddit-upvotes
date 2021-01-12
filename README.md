@@ -45,13 +45,3 @@ RMSE penalizes large errors more heavily. The magnitudes of RMSE among our model
 <img src="/images/r2.png" width="600" height="400" />
 
 
-## Reference Papers/Write-ups
-
-* [Predicting Comment Karma on Internet Forums](http://cs229.stanford.edu/proj2014/Daria%20Lamberson,Leo%20Martel,%20Simon%20Zheng,Hacking%20the%20Hivemind.pdf)
-* [Predicting Comment Karma by Subreddit](http://yoavz.com/reddit_karma.pdf)
-   - github link concerning [this paper](https://github.com/yoavz/predict_reddit_comments) 
-   
-## FAQ about reddit
-
-* [what is karma](https://www.reddit.com/r/NoStupidQuestions/comments/2idfhk/what_is_link_karma/)
-* [what is reddit](https://www.reddit.com/wiki/faq)
