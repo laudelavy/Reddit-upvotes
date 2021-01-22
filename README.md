@@ -1,13 +1,7 @@
 
 # Predicting Reddit Comment Upvotes
 
-Contributors: 
 
-* Adam Reevesman
-* Gokul Krishna Guruswamy
-* Hai Le
-* Maximillian Alfaro
-* Prakhar Agrawal
 
 ## Resources in this repository
 
@@ -23,14 +17,7 @@ The finalized notebooks that combine into our entire work includes:
 
 Original: To predict how many __upvotes__ a comment will get, given the comment text, user history, sub-reddit and thread details.
 
-Next Step: Improve current model performance.
-
-## Data Source
-
-We use 2 sources of data: 
-
-* Comments Dataset [available here](https://mega.nz/#F!NtsCGTgD!urXdXLJ6yITYdWEdWN-H1w)
-* Threads Dataset scraped using Reddit API using [this code](/scraping/Scrape.ipynb)
+Next Step: Improve current model performance
 
 ## Models and Metrics
 
