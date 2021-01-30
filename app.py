@@ -31,9 +31,9 @@ def index():
 
         print(result)
 
-        return render_template('results.html', result=result)
+        return render_template('output.html', result=result)
     else:
-        return render_template('index.html')
+        return render_template('page.html')
 
 
 if __name__ == "__main__":
