@@ -33,7 +33,7 @@ def index():
 
         return render_template('output.html', result=result)
     else:
-        return render_template('page.html')
+        return render_template('index.html')
 
 
 if __name__ == "__main__":
